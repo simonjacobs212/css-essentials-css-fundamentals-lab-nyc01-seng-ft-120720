@@ -36,6 +36,7 @@ figcaption {
   width: 800px;
   text-align: center;
   margin: auto;
+  padding: inherit;
 }
 
 #details {
