@@ -37,6 +37,11 @@ p {
   text-align: center;
 }
 
+#details {
+  display: block;
+  
+}
+
 div {
   display: block;
   float: left;
