@@ -36,3 +36,7 @@ p {
   margin-right: auto;
   text-align: center;
 }
+
+details {
+  margin: auto;
+}
