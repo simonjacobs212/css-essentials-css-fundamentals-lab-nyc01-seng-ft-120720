@@ -42,3 +42,9 @@ div {
   width: 300px;
   padding: 10px;
 }
+
+#details {
+  float: left;
+  width: 300px;
+  padding: 10px;
+}
