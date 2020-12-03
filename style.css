@@ -30,7 +30,7 @@ figcaption {
   padding: 10px
 }
 
-#featured-property {
+#featured-property p {
   display: block;
   width: 1000px;
   margin-left: auto;
