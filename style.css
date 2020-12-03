@@ -42,6 +42,10 @@ p {
 
 }
 
+h3 {
+  text-align: center;
+}
+
 div {
   display: block;
   float: left;
