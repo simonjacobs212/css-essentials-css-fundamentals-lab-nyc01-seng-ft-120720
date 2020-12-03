@@ -31,9 +31,9 @@ figcaption {
 }
 
 p {
-  line-height: 1.5;
-  display: inline-block;
-  vertical-align: middle;
+  width: 700px;
+  margin: a
+  text-align: center;
 }
 
 div {
