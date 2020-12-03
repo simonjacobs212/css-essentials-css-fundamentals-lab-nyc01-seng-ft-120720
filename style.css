@@ -37,7 +37,7 @@ p {
   text-align: center;
 }
 
-details {
+#details {
   display: flex;
 justify-content: center;
 align-items: center;
