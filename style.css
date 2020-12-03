@@ -38,8 +38,7 @@ p {
 }
 
 div {
-  display: block;
-  float: left;
+  display: flex;
   justify-content: center;
   align-items: center;
   height: 200px;
