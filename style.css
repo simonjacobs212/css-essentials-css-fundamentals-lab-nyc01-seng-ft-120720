@@ -38,7 +38,7 @@ p {
 }
 
 div {
-  float: center;
+  float: left;
   width: 300px;
   padding: 10px;
 }
