@@ -39,6 +39,7 @@ figcaption {
   margin-right: auto;
   text-align: center;
   font-size: 12pt;
+  padding: 10px;
 }
 
 #details {
