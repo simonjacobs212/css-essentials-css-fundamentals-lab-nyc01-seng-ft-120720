@@ -10,8 +10,7 @@ h1 {
 }
 
 nav {
-  text-align: center;
-  font-size: 10pt;
+
 }
 
 .center {
@@ -21,9 +20,11 @@ nav {
   width: 70%;
 }
 
-a {
+.nav p {
   background-color: grey;
   padding: 10px;
+  text-align: center;
+  font-size: 10pt;
 }
 
 figcaption {
