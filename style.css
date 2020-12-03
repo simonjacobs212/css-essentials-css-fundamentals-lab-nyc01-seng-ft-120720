@@ -45,6 +45,7 @@ p {
 h3 {
   text-align: center;
   width: 25%;
+  float: left;
 }
 
 div {
