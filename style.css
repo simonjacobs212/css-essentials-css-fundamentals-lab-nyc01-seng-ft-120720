@@ -35,6 +35,7 @@ figcaption {
   margin-left: auto;
   margin-right: auto;
   text-align: center;
+  font-size: 10pt;
 }
 
 #details {
@@ -60,5 +61,5 @@ div {
 }
 
 p {
-  font-size: 10pt;
+
 }
