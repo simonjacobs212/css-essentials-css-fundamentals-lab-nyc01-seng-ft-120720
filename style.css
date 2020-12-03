@@ -38,7 +38,9 @@ p {
 }
 
 div {
-  line-height: 1.5;
-  display: inline-block;
-  vertical-align: middle;
+  display: block;
+  float: left;
+  text-align: center;
+  width: auto;
+  margin: auto;
 }
