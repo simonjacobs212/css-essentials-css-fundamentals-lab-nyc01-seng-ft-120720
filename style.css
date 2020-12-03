@@ -20,11 +20,10 @@ nav {
   width: 70%;
 }
 
-.nav p {
+.grey {
   background-color: grey;
   padding: 10px;
-  text-align: center;
-  font-size: 10pt;
+  
 }
 
 figcaption {
