@@ -39,4 +39,5 @@ p {
 
 #details {
   display: block;
+  float: left;
 }
